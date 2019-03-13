@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bookstore>
+    <book category="cooking">
+        <title lang="en">Everyday Italian</title>
+        <author>Gidada De</author>
+        <year>2018</year>
+        <price>23</price>
+    </book>
+
+    <book category="education">
+        <title lang="en">Python</title>
+        <author>aadsfgr</author>
+        <year>2011</year>
+        <price>11</price>
+    </book>
+
+    <book category="sport">
+        <title lang="en">dsfgs</title>
+        <author>dsgfh</author>
+        <year>2028</year>
+        <price>5</price>
+    </book>
+</bookstore>
